@@ -1,4 +1,0 @@
-Another test file.
-another line.
-ja yks lisää...
-muokkaus kloonista
