@@ -70,4 +70,4 @@ class TestVarasto(unittest.TestCase):
 
     def test_tostring(self):
         uusi_varasto = Varasto(1.0, 1.0)
-        self.assertEqual(str(uusi_varasto), 'saldo = 1.1, vielä tilaa 0.0')
+        self.assertEqual(str(uusi_varasto), 'saldo = 1.0, vielä tilaa 0.0')
