@@ -1,5 +1,5 @@
 # ohtuvarasto
-![CI workflow](https://github.com/hurbios/ohtuvarasto/workflows/CI/badge.svg)
+<a href="https://github.com/hurbios/ohtuvarasto/actions">![CI workflow](https://github.com/hurbios/ohtuvarasto/workflows/CI/badge.svg)</a>
 
 ## commands
 - `poetry run <command>` or `poetry shell` & `exit`
